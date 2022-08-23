@@ -8,19 +8,21 @@
 <br>
 <i><b>Asignatura:</b></i> Arquitectura de Software.
 <br>
+<br>
 <i><b>Estudiante:</b></i> Diana Carolina quintero Bedoya.
 <br>
 <br>
 <i><b>Estudiante:</b></i> Pablo Alejandro Gonzalez Suaterna.
 <br>
 <br>
-<i><b>Estudiante:</b></i> Hugo Andrés Espinosa .
+<i><b>Estudiante:</b></i> Hugo Andrés Espinosa Gonzalez.
 <br>
 <br>
 <i><b>Estudiante:</b></i> Juan Pablo Cortes Morales.
 <br>
 <br>
 <i><b>Estudiante:</b></i> El que falta.
+<br>
 <br>
 <i><b>Tema:</b></i> Ejercicio cancha de futbol.
 <br>
